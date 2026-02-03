@@ -4,7 +4,7 @@ Electronics Engineer | DevOps-Oriented Full Stack Developer | ISRO Research Cont
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Electronics+Engineer+🚀;DevOps+%26+Cloud+Enthusiast+☁️;Full+Stack+Web+Developer+💻;ISRO+Research+Project+Contributor+🛰️;Problem+Solver+%26+Lifelong+Learner+📚&center=true&width=700&height=50" />
+  <img alt="Typing animation showing roles" src="https://readme-typing-svg.herokuapp.com/?lines=Electronics+Engineer+🚀;DevOps+%26+Cloud+Enthusiast+☁️;Full+Stack+Web+Developer+💻;ISRO+Research+Project+Contributor+🛰️;Problem+Solver+%26+Lifelong+Learner+📚&center=true&width=700&height=50" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@ Electronics Engineer | DevOps-Oriented Full Stack Developer | ISRO Research Cont
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nik03072005&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img alt="Profile views counter" src="https://komarev.com/ghpvc/?username=nik03072005&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -32,6 +32,7 @@ Actively seeking **Software Engineer / DevOps / Research Intern / Graduate Engin
 ## 🛰️ ISRO Research Experience
 
 ### 🚀 ISRO RESPOND Project — *Frontend & System Design Engineer*
+
 **GUI-Based MIL-STD-1553B Spacecraft Onboard Data Analyzer**
 
 - Designed interactive dashboards for **spacecraft bus communication analysis**
@@ -48,10 +49,12 @@ Actively seeking **Software Engineer / DevOps / Research Intern / Graduate Engin
 ## 🧠 Internships & Training
 
 ### 🔹 ISRO Project Internship (Ongoing)
+
 - Government-funded research project (RESPOND)
 - GUI + visualization for avionics communication protocols
 
 ### 🔹 VHDL / Digital Design Internship
+
 - Sequential & combinational circuit design
 - FSMs, ALUs, sequence detectors, stopwatch design
 - RTL-level thinking & hardware-software co-design
@@ -71,21 +74,27 @@ Actively seeking **Software Engineer / DevOps / Research Intern / Graduate Engin
 ## 🧰 Tech Stack (DevOps + Full Stack)
 
 ### ⚙️ Languages
+
 `JavaScript` `Python` `C` `VHDL` `SQL`
 
 ### 🌐 Frontend
+
 `React.js` `Tailwind CSS` `GSAP` `D3.js` `Chart.js`
 
 ### 🧩 Backend
+
 `Node.js` `Express.js` `REST APIs` `JWT Auth`
 
 ### 🗄️ Databases
+
 `PostgreSQL` `MongoDB`
 
 ### ☁️ DevOps & Tools
+
 `Docker` `Git & GitHub` `Linux` `CI/CD Concepts` `Cloud Fundamentals`
 
 ### 🎨 UI/UX
+
 `Figma` `Design Systems` `Accessibility`
 
 ---
@@ -109,6 +118,7 @@ Actively seeking **Software Engineer / DevOps / Research Intern / Graduate Engin
 ## 🚀 Featured Projects
 
 ### 📺 Video Hosting Platform
+
 - Scalable video upload & streaming
 - Secure authentication & role-based access
 - Cloud media handling with performance optimization
@@ -118,6 +128,7 @@ Actively seeking **Software Engineer / DevOps / Research Intern / Graduate Engin
 ---
 
 ### 🌐 Perfume E-Commerce Platform
+
 - Authentication, cart, admin dashboard
 - Responsive & optimized UI
 - Production-ready backend APIs
@@ -127,6 +138,7 @@ Actively seeking **Software Engineer / DevOps / Research Intern / Graduate Engin
 ---
 
 ### 🍎 Apple iPhone 15 Website Clone
+
 - Pixel-perfect UI
 - Smooth scrolling & animation-heavy experience
 - Apple-style design system
@@ -138,7 +150,7 @@ Actively seeking **Software Engineer / DevOps / Research Intern / Graduate Engin
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nik03072005&theme=radical&no-frame=true&row=1&column=7" />
+  <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=nik03072005&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -146,15 +158,15 @@ Actively seeking **Software Engineer / DevOps / Research Intern / Graduate Engin
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nik03072005&show_icons=true&theme=radical" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nik03072005&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nik03072005&theme=radical" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nik03072005&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nik03072005&layout=compact&theme=radical" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nik03072005&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -163,10 +175,10 @@ Actively seeking **Software Engineer / DevOps / Research Intern / Graduate Engin
 
 <p align="left">
   <a href="https://linkedin.com/in/nikhil-chandra-783581257" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:nc03072005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
