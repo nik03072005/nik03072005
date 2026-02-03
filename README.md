@@ -99,19 +99,20 @@ Actively seeking **Software Engineer / DevOps / Research Intern / Graduate Engin
 
 ---
 
-## 📊 Animated Skill Bars
+## 📊 Skills & Proficiency (Visual)
 
-**Frontend Development**
-![Frontend](https://progress-bar.dev/90/?title=Frontend&color=61dafb)
+### Frontend Development
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nik03072005&repo=frontend-skills&theme=react" width="100%" />
 
-**Backend Development**
-![Backend](https://progress-bar.dev/80/?title=Backend&color=brightgreen)
+### Backend Development
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nik03072005&repo=backend-skills&theme=radical" width="100%" />
 
-**DevOps & Cloud**
-![DevOps](https://progress-bar.dev/70/?title=DevOps+%26+Cloud&color=blue)
+### DevOps & Cloud
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nik03072005&repo=devops-skills&theme=tokyonight" width="100%" />
 
-**Data Visualization & Research**
-![Research](https://progress-bar.dev/85/?title=Research+%26+Visualization&color=orange)
+### Research & Data Visualization
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nik03072005&repo=research-skills&theme=algolia" width="100%" />
+
 
 ---
 
@@ -150,24 +151,30 @@ Actively seeking **Software Engineer / DevOps / Research Intern / Graduate Engin
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=nik03072005&theme=radical&no-frame=true&row=1&column=7" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=nik03072005&theme=radical&no-frame=true&margin-w=15" 
+    alt="GitHub profile achievements: commits, repositories, followers, stars, contributions"
+  />
 </p>
 
 ---
 
 ## 📈 GitHub Stats
 
+## 📈 GitHub Statistics
+
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nik03072005&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nik03072005&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nik03072005&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=nik03072005&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nik03072005&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nik03072005&layout=compact&theme=radical&hide_border=true" />
 </p>
+
 
 ---
 
