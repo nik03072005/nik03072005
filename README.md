@@ -99,19 +99,30 @@ Actively seeking **Software Engineer / DevOps / Research Intern / Graduate Engin
 
 ---
 
-## 📊 Skills & Proficiency (Visual)
+## 📊 Skills & Proficiency
 
 ### Frontend Development
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nik03072005&repo=frontend-skills&theme=react" width="100%" />
+![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-Proficient-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-Proficient-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
 
 ### Backend Development
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nik03072005&repo=backend-skills&theme=radical" width="100%" />
+![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-Advanced-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Proficient-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Proficient-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### DevOps & Cloud
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nik03072005&repo=devops-skills&theme=tokyonight" width="100%" />
+![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Proficient-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Learning-00ADD8?style=for-the-badge)
 
 ### Research & Data Visualization
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nik03072005&repo=research-skills&theme=algolia" width="100%" />
+![Python](https://img.shields.io/badge/Python-Proficient-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-Advanced-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+![Data_Analysis](https://img.shields.io/badge/Data_Analysis-Advanced-FF6B6B?style=for-the-badge)
 
 
 ---
@@ -159,20 +170,18 @@ Actively seeking **Software Engineer / DevOps / Research Intern / Graduate Engin
 
 ---
 
-## 📈 GitHub Stats
-
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nik03072005&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nik03072005&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nik03072005&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nik03072005&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nik03072005&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nik03072005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 
